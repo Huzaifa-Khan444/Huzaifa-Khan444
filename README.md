@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Huzaifa-Khan444
+- 👋 Hi, I’m Huzaifa Khan
 - 👀 I’m interested in Computer Languages
 - 🌱 I’m currently learning languages of computer
 - 💞️ I’m looking to collaborate on ...
